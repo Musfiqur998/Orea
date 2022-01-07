@@ -1,0 +1,100 @@
+#loading{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    background: black url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b6e0b072897469.5bf6e79950d23.gif') no-repeat center;
+    z-index: 99999;
+}
+
+.mylogo{
+    height: 60px;
+    border-radius: 30%;
+}
+
+.index{
+    transition: all 0.5s;
+}
+
+.index:hover{
+    transition: all 0.5s;
+    color: white;
+}
+
+a{
+    cursor: pointer;
+}
+
+.home{
+    transition: all 0.5s;
+}
+
+.home:hover{
+    transition: all 0.5s;
+    color: white;
+}
+
+.pack{
+    transition: all 0.5s;
+}
+
+.pack:hover{
+    transition: all 0.5s;
+    color: white;
+}
+
+.mod{
+    transition: all 0.5s;
+}
+
+.mod:hover{
+    transition: all 0.5s;
+    color: white;
+}
+
+.skin{
+    transition: all 0.5s;
+}
+
+.skin:hover{
+    transition: all 0.5s;
+    color: white;
+}
+
+.about-arrow{
+    width: 50px;  
+    margin-left: 10px;
+}
+
+.about-arrow:hover{
+    color: rgb(58, 57, 57);
+    width: 50px;  
+    margin-left: 10px;
+}
+
+.download{
+    transition: all 0.4s;
+}
+
+.download:hover{
+    margin-left: 5px;
+}
+
+header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.footerlogo{
+    height: 60px;
+    border: 0;
+    border-radius: 20%;
+}
+
+#preloader{
+    background: 000;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+}
